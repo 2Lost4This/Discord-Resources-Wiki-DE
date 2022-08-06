@@ -71,7 +71,7 @@ __Link:__ [Discord Security Bug Bounties](https://discord.com/security)
 
 ## **Latest Transparency Report** 
 > __Description:__ The most recent update on the security team’s actions and terminations.   <br/>
-__Link:__ [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-h1-2021)
+__Link:__ [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-q1-2022)
 
 ## **Discord’s (new) Media Kit**
 > __Description:__ Discord’s official assets.   <br/>
