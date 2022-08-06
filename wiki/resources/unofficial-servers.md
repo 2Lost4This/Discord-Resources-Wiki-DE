@@ -1,72 +1,72 @@
 ---
-title: Unofficial Servers
+title: Inoffizielle Server
 sidebar_position: 8
-description: Unofficial servers related to discord.
+description: Inoffizielle Server mit Bezug zu Discord.
 ---
 
-# Unofficial Servers
+# Inoffizielle Server
 
 ## **Discord API**
-> __Description:__ A server dedicated to information and assistance with the Discord API.   <br/>
+>__Beschreibung:__ Ein Server, der sich der Information und Support mit der Discord-API widmet.   <br/>
 __Link:__ [Discord API](https://discord.gg/discord-api)   <br/>
-__Credit:__ Discord API team (owned by @80088516616269824)
+__Credit:__ Discord API Team (Gründer: @80088516616269824)
 
 @gg/discord-api
 
 ## **Discord Linux**
-> __Description:__ A server dedicated to information and assistance with the Linux version of Discord.   <br/>
+>__Beschreibung:__ Ein Server, der Informationen und Support für die Linux-Version von Discord bietet.   <br/>
 __Link:__ [Discord Linux](https://discord.gg/discord-linux)   <br/>
-__Credit:__ Discord Linux team (owned by @86201442112671744)
+__Credit:__ Discord Linux Team (Gründer: @86201442112671744)
 
 @gg/discord-linux
 
 ## **Discord Bots**
-> __Description:__ The Discord server for the oldest bots list on Discord, affiliated with Discord API.   <br/>
+>__Beschreibung:__ Der Discord-Server für die älteste Bots-Liste auf Discord. Affiliated mit der Discord-API.   <br/>
 __Link:__ [Discord Bots](https://discord.gg/dbots)   <br/>
-__Credit:__ Discord Bots’ server team (owned by @66237334693085184)
+__Credit:__ Discord Bots Serverteam (Gründer: @66237334693085184)
 
 @gg/dbots
 
 ## **Discord Networking**
-> __Description:__ A place where anyone that helps support the operation of a Discord server can get to know each other, exchange advice, and create lasting partnerships.   <br/>
-__Link:__ [Discord Networking](https://discord.gg/BcXExxeGVG) (Access request required)   <br/>
-__Credit:__ Discord Networking team (owned by @200987752794292224)
+>__Beschreibung:__ Ein Ort, an dem alle, die einen Discord-Server Administrieren, Moderieren oder in einer anderen Art unterstützen, einander kennenlernen, Ratschläge austauschen und dauerhafte Partnerschaften eingehen können.   <br/>
+__Link:__ [Discord Networking](https://discord.gg/BcXExxeGVG) (Zugangsantrag erforderlich)   <br/>
+__Credit:__ Discord Networking Team (Gründer: @200987752794292224)
 
 @gg/BcXExxeGVG
 
 
 ## **Displace** 
-> __Description:__ The biggest Discord meta community. Get all your Discord news, help, and resources for your community.   <br/>
-__Link(s):__ [Displace server](https://discord.gg/displace) | [Displace Website](https://dat.place/)   <br/>
-__Credit:__ The Displace team (owned by @249287049482338305)
+>__Beschreibung:__ Die größte Discord-Meta-Community. Hier findest du alle Discord-News, Hilfe und Ressourcen für deine Community.   <br/>
+__Link(s):__ [Displace server](https://discord.gg/displace) | [Displace Webseite](https://dat.place/)   <br/>
+__Credit:__ Das Displace Team (Gründer: @249287049482338305)
 
 @gg/displace
 
 ## **The Coding Den**
-> __Description:__  The Coding Den is a friendly community of coders focusing on helping new and experienced programmers alike.   <br/>
+>__Beschreibung:__  The Coding Den ist eine freundliche Gemeinschaft von Programmierern, die sich darauf konzentriert, neuen und erfahrenen Programmierern gleichermaßen zu helfen.   <br/>
 __Link:__ [The Coding Den](https://discord.gg/code)   <br/>
-__Credit:__ The Coding Den team (owned by @229334929614438400)
+__Credit:__ Das Coding Den Team (Gründer: @229334929614438400)
 
 @gg/code
 
 ## **Discord Hotline**
-> __Description:__ A community for moderators to discuss moderation and Discord meta.   <br/>
-__Link:__ (only by referral)   <br/>
-__Credit:__ Discord Hotline team (owned by @108432868149035008)
+>__Beschreibung:__ Eine Community für Moderatoren, um Moderation und Discord-Meta zu diskutieren.   <br/>
+__Link:__ (nur auf Verweis)   <br/>
+__Credit:__ Discord Hotline Team (Gründer: @108432868149035008)
 
 ## **The Fish Project**
-> __Description:__ Providing early detection of new phishing attacks before they can be used to harm users.   <br/>
-__Link:__ (only by referral) (access request required)   <br/>
-__Credit:__ The Fish Project team (owned by @459235187469975572)
+>__Beschreibung:__ Frühzeitige Erkennung neuer Phishing-Angriffe, bevor sie zum Schaden der Nutzer eingesetzt werden können.   <br/>
+__Link:__ (nur auf Verweis) (Zugangsantrag erforderlich)   <br/>
+__Credit:__ Das Fish Project Team (Gründer: @459235187469975572)
 
 ## **Dev Hub**
-> __Description:__ A community to bring developers and proficients together to share ideas and talk (Discord) meta.   <br/>
-__Link:__ (only by referral)   <br/>
-__Credit:__ Dev Hub team (owned by @386861188891279362)
+>__Beschreibung:__ Eine Gemeinschaft, die Entwickler und Fachleute zusammenbringt, um Ideen auszutauschen und (über Discord) zu diskutieren .   <br/>
+__Link:__ (nur auf Verweis)   <br/>
+__Credit:__ Dev Hub Team (Gründer: @386861188891279362)
 
 ## **The Programmers Hangout** 
-> __Description:__ The Programmers Hangout is a general-purpose programming community with an emphasis on hangout, catering to all experience levels. With a focus on open source projects, education, learning, career progression and programming help.  <br/>
+>__Beschreibung:__ Der Programmers Hangout ist eine allgemeine Programmier-Community, die sich an alle Erfahrungsstufen richtet. Der Schwerpunkt liegt auf Open-Source-Projekten, Bildung, Lernen, beruflichem Fortkommen und Programmierhilfe.  <br/>
 __Link(s):__ [The Programmers Hangout](https://discord.gg/programming) | [The Programmers Hangout Website](https://theprogrammershangout.com/)   <br/>
-__Credit:__ The Programmers Hangout team (owned by @335628039302021121)
+__Credit:__ Das Programmers Hangout Team (Gründer: @335628039302021121)
 
 @gg/programming

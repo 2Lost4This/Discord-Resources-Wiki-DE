@@ -1,235 +1,235 @@
 ---
-title: Other
+title: Sonstiges
 sidebar_position: 3
-description: Other useful tools
+description: Andere nützliche Tools
 ---
 
-# Other
+# Sonstiges
 
 
 ### **Blank Characters**
-> __Description:__ A list of blank Unicode characters. <br/>
+> __Beschreibung:__ Eine Liste von leeren Unicode-Zeichen. <br/>
 __Link:__ [Blank Charcaters](https://character.construction/blanks)
 
 ### **Bitwarden**
-> __Description:__ Open source password manager.   <br/>
+> __Beschreibung:__ Open source Passwort-Manager.   <br/>
 __Link:__ [Bitwarden](https://bitwarden.com/)
 
 ### **Blobs**
-> __Description:__ A server list of blob emojis. <br/>
+> __Beschreibung:__ Eine Serverliste von Blob-Emojis. <br/>
 __Link:__ [Blobs](https://blobs.gg/) <br/>
 __Credit:__ @69198249432449024
 
 ### **CitizenLab**
-> __Description:__ URL testing lists intended to help in testing URL censorship, divided by country codes.   <br/>
+> __Beschreibung:__ URL-Testlisten, die bei der Prüfung der URL-Zensur helfen sollen, unterteilt nach Ländercodes.   <br/>
 __Link:__ [CitizenLab](https://github.com/citizenlab/test-lists) 
 
 ### **Polywork**
-> __Description:__ Polywork is a professional social network that lets users create a free personal webpage, share what're they're up to both personally and professionally and send collaboration requests to others.  <br/>
+> __Beschreibung:__ Polywork ist ein professionelles soziales Netzwerk, mit dem Nutzer eine kostenlose persönliche Webseite erstellen, ihre persönlichen und beruflichen Aktivitäten teilen und Anfragen zur Zusammenarbeit an andere senden können.  <br/>
 __Link:__ [Polywork](https://www.polywork.com/)
 
 ### **Rize**
-> __Description:__ Rize is an intelligent time tracker that improves your focus and helps you build better work habits. <br/>
+> __Beschreibung:__ Rize ist ein intelligenter Zeiterfasser, der Ihre Konzentration verbessert und Ihnen hilft, bessere Arbeitsgewohnheiten zu entwickeln. <br/>
 __Link:__ [Rize](https://rize.io)
 
 ### **Files**
-> __Description:__ File manager for Windows, focused on design.  <br/>
+> __Beschreibung:__ Dateimanager für Windows, mit Schwerpunkt auf Design.  <br/>
 __Link:__ [Files](https://files.community/)
 
 ### **One Commander**
-> __Description:__ File manager for Windows, focused on productivity.  <br/>
+> __Beschreibung:__ Dateimanager für Windows, mit Schwerpunkt auf Produktivität.  <br/>
 __Link:__ [One Commander](https://www.onecommander.com/)
 
 ### **Carrd**
-> __Description:__ Build one-page websites.   <br/>
+> __Beschreibung:__ Erstelle Ope-Page Webseiten.   <br/>
 __Link:__ [Carrd](https://carrd.co/)
 
 ### **Down for Everyone or Just Me**
-> __Description:__ A site that checks if a domain is up.   <br/>
+> __Beschreibung:__ Eine Website, die prüft, ob eine Domain verfügbar ist.   <br/>
 __Link:__ [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
 
 ### **KeyCDN Tools**
-> __Description:__ Many tools related to web, networking and security checkings.  <br/>
+> __Beschreibung:__ Viele Tools für Web-, Netzwerk- und Sicherheitsprüfungen.  <br/>
 __Link:__ [KeyCDN Tools](https://tools.keycdn.com/)
 
 ### **Dehashed**
-> __Description:__ Tool to find data breaches that contain username, email, ip, address, phone, vin, etc.  <br/>
+> __Beschreibung:__ Tool zum Auffinden von Datenverstößen, die Benutzernamen, E-Mail, IP, Adresse, Telefon, Vin, usw. enthalten.  <br/>
 __Link:__ [Dehashed](https://dehashed.com)
 
 ### **Terms Of Service ; Didn't Read**
-> __Description:__ Summarized terms of service for all known companies.  <br/>
+> __Beschreibung:__ SZusammengefasste Nutzungsbedingungen für alle bekannten Unternehmen.  <br/>
 __Link:__ [Terms Of Service ; Didn't Read](https://tosdr.org/)
 
 ### **TimezoneWizard**
-> __Description:__ Easy to use tool for finding timezones all across the globe.  <br/>
+> __Beschreibung:__ Einfach zu bedienendes Tool zum Auffinden von Zeitzonen auf der ganzen Welt.  <br/>
 __Link:__ [TimezoneWizard](https://timezonewizard.com/)
 
 ### **C.O.A.C.H**
-> __Description:__ Tidying up your online security, step by step.   <br/>
+> __Beschreibung:__ Schritt für Schritt Ordnung in Ihre Online-Sicherheit bringen.   <br/>
 __Link:__ [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
 
 ### **Empty Characters**
-> __Description:__ List and methods to Unicode empty characters.   <br/>
+> __Beschreibung:__ Liste und Methoden für leere Unicode-Zeichen.   <br/>
 __Link:__ [Empty Characters](https://emptycharacter.com)
 
 ### **Awesome**
-> __Description:__ Collection of lists about various topics.   <br/>
+> __Beschreibung:__ Sammlung von Listen zu verschiedenen Themen.   <br/>
 __Link:__ [Awesome](https://github.com/sindresorhus/awesome)  <br/>
 __Credit:__ @github:sindresorhus
 
 ### **Internet Slang**
-> __Description:__ A list of slang used across the internet.   <br/>
+> __Beschreibung:__ Eine Liste der im Internet verwendeten Slangs.   <br/>
 __Link:__ [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
 
 ### **Invited** 
-> __Description:__ Watch movies, Youtube or even listen to music together through a shared virtual browser.   <br/>
+> __Beschreibung:__ Über einen gemeinsamen virtuellen Browser kannst du gemeinsam Filme anschauen, auf YouTube surfen oder sogar Musik hören.   <br/>
 __Link:__ [Invited](https://invited.tv/)
 
 ### **Obsidian**
-> __Description:__ An advanced note-taking app.  <br/>
+> __Beschreibung:__ Eine fortgeschrittene App für Notizen.  <br/>
 __Link:__ [Obsidian](https://obsidian.md/)
 
 ### **Trello**
-> __Description:__ Manage collaborative projects easily.  <br/>
+> __Beschreibung:__ Verwalte gemeinschaftliche Projekte ganz einfach.  <br/>
 __Link:__ [Trello](https://trello.com/)
 
 ### **Notion**
-> __Description:__ A product for creating workflows and websites, fully customizable for your needs.   <br/>
+> __Beschreibung:__ Ein Produkt zur Erstellung von Workflows und Websites, das vollständig an deine Bedürfnisse angepasst werden kann.   <br/>
 __Link:__ [Notion](https://www.notion.so/)
 
 ### **Tina**
-> __Description:__ Open-source content management tool.  <br/>
+> __Beschreibung:__ Open-Source-Werkzeug zur Verwaltung von Inhalten.  <br/>
 __Link:__ [Tina](https://tina.io/)
 
 ### **Nord Theme**
-> __Description:__ An arctic-inspired color palette and theme collection for various sites and applications.   <br/>
+> __Beschreibung:__ Eine von der Arktis inspirierte Farbpalette und Themensammlung für verschiedene Websites und Anwendungen.   <br/>
 __Link:__ [Nord Theme](https://www.nordtheme.com/)
 
 ### **Pronoun Island**
-> __Description:__ A website for personal pronoun usage examples.   <br/>
+> __Beschreibung:__ Eine Website mit Beispielen für die Verwendung von Personalpronomen.   <br/>
 __Link:__ [Pronoun Island](https://pronoun.is/)
 
 ### **PronounDB**
-> __Description:__ Pronouns intergration for websites and apps.  <br/>
+> __Beschreibung:__ Pronomen-Integration für Websites und Anwendungen.  <br/>
 __Link:__ [ProunounDB](https://pronoundb.org/)  <br/>
 __Credit:__ @94762492923748352
 
 ### **Pronouns.page**
-> __Description:__ Information about nonbinary and gender neutral language.  <br/>
+> __Beschreibung:__ Informationen über nichtbinäre und geschlechtsneutrale Sprache.  <br/>
 __Link:__ [Pronouns.page](https://en.pronouns.page/)
 
 ### **Flaticon**
-> __Description:__ Free vector icons and stickers for your projects. Resources made by and for designers.   <br/> 
+> __Beschreibung:__ Kostenlose Vektorsymbole und Aufkleber für deine Projekte. Ressourcen von und für Designer.   <br/> 
 __Link:__ [Flaticon](https://www.flaticon.com/)
 
 ### **Photopea**
-> __Description:__ Free online image editor.   <br/>
+> __Beschreibung:__ Kostenloses Online-Bildbearbeitungsprogramm.   <br/>
 __Link:__ [Photopea](https://www.photopea.com/)
 
 ### **Random Sites**
-> __Description:__ Generates a small list of random website URLs.   <br/>
+> __Beschreibung:__ Erzeugt eine kleine Liste mit zufälligen Website-URLs.   <br/>
 __Link:__ [Random Sites](https://www.randomlists.com/websites)
 
 ### **ShareX**
-> __Description:__ Best sharing app.  
+> __Beschreibung:__ Beste Sharing-App.  
 __Link:__ [ShareX](https://getsharex.com/)   <br/>
 __Credit:__ @95576568025329664
 
 ### **pfp.lgbt**
-> __Description:__ A tool to "LGBTQ+fy" your images.  <br/>
+> __Beschreibung:__ Ein Werkzeug zum "LGBTQ+fy" deiner Bilder.  <br/>
 __Link:__ [pfp.lgbt](https://pfp.lgbt/)  <br/>
 __Credit:__ @109710323094683648 @139836912335716352 
 
 ### **Statista**
-> __Description:__ Statistics and business data platform for over 170 industries.   <br/>
+> __Beschreibung:__ Statistik- und Geschäftsdatenplattform für über 170 Branchen.   <br/>
 __Link:__ [Statista](https://statista.com)
 
 ### **Semantic Scholar**
-> __Description:__ Semantic Scholar uses AI to help you find scientific articles without suffering information overload. <br/>
+> __Beschreibung:__ Semantic Scholar nutzt KI, um dir bei der Suche nach wissenschaftlichen Artikeln zu helfen, ohne dass du unter einer Informationsflut leidest. <br/>
 __Link:__ [Semantic Scholar](https://www.semanticscholar.org/) 
 
 ### **Simple Analytics**
-> __Description:__ Simple, clean, and friendly analytics for sites.  <br/>
+> __Beschreibung:__ Einfache, saubere und freundliche Analysen für Websites.  <br/>
 __Link:__ [Simple Analytics](https://simpleanalytics.com/)
 
 ### **Grafana**
-> __Description:__ Query, visualize, alert on, and understand your data with aesthetic dashboards.  <br/>
+> __Beschreibung:__ Mit ästhetischen Dashboards kannst du deine Daten abfragen, visualisieren, Warnungen ausgeben und verstehen.  <br/>
 __Link:__ [Grafana](https://grafana.com/)
 
 ### **The LaTeX Project**
-> __Description:__ LaTeX is a document preparation system, useful for scientific or technical documents. <br/>
+> __Beschreibung:__ LaTeX ist ein System zur Vorbereitung von Dokumenten, das sich für wissenschaftliche oder technische Dokumente eignet. <br/>
 __Link:__ [The LaTeX Project](https://latex-project.org) <br/>
 __Credit:__ @github:latex3 
 
 ### **Web Archives**
-> __Description:__ Explore web pages saved over time.  <br/>
+> __Beschreibung:__ Entdecke die im Laufe der Zeit gespeicherten Webseiten.  <br/>
 __Link:__ <br/>  
 [Web Archives](https://web.archive.org/)  <br/>
 [Arvhive.is](https://archive.is/)
 
 ### **AlternativeTo**
-> __Description:__ AlternativeTo is a crowd-sourced website that seeks to find alternate software for various purposes. <br/>
+> __Beschreibung:__ AlternativeTo ist eine Crowd-Source-Website, die versucht, alternative Software für verschiedene Zwecke zu finden. <br/>
 __Link:__ [AlternativeTo](https://alternativeto.net/)
 
 ### **Internet Download Manager**
-> __Description:__ Tool that makes downloading videos and files through the browser easy.  <br/>
+> __Beschreibung:__ Tool, das das Herunterladen von Videos und Dateien über den Browser erleichtert.  <br/>
 __Link:__ [Download Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
 
 ### **Whois Lookup**
-> __Description:__ Lookup information about domains or IP addresses.  <br/>
+> __Beschreibung:__ Informationen über Domänen oder IP-Adressen abrufen.  <br/>
 __Link:__ [Whois Lookup](https://whois.domaintools.com/)
 
 ### **Status Page**
-> __Description:__ Communicate real-time status to your members.   <br/>
+> __Beschreibung:__ Teile deinen Membern den Status in Echtzeit mit.   <br/>
 __Link:__ [Status Page](https://statuspage.io)
 
 ### **Tone Indicators Website**
-> __Description:__ Find and understand text tone indicators.   <br/>
+> __Beschreibung:__ Finde und verstehe Indikatoren für die Tonalität von Texten.   <br/>
 __Link:__ [Tone Indicators](https://toneindicators.carrd.co/)
 
 ### **URL Scanner**
-> __Description:__ Scans URLs and gives details about them.   <br/>
+> __Beschreibung:__ Scannt URLs und liefert Details über sie.   <br/>
 __Link:__ [URL Scan](https://urlscan.io/)
 
 ### **URL Expander**
-> __Description:__ Expand short URLs.   <br/>
+> __Beschreibung:__ Erweitert kurze URLs.   <br/>
 __Link:__ [URL Expander](https://urlex.org/)
 
 ### **Waifu2x**
-> __Description:__ Image scaling and noise reduction for anime-style art.   <br/>
+> __Beschreibung:__ Bildskalierung und Rauschunterdrückung für den Anime-Stil.   <br/>
 __Link:__ [waifu2x](http://waifu2x.udp.jp/)
 
 ### **True Size**
-> __Description:__ A global map where you can drag and drop landmasses to see better comparisons of size. <br/>
+> __Beschreibung:__ Eine globale Karte, auf der du Landmassen per Drag & Drop verschieben kannst, um die Größe besser vergleichen zu können. <br/>
 __Link:__ [True Size](https://thetruesize.com/) 
 
 ### **Visual Center**
-> __Description:__ Find the visual center of your images.  <br/>
+> __Beschreibung:__ Finde das visuelle Zentrum deiner Bilder.  <br/>
 __Link:__ [Visual Center](https://javier.xyz/visual-center/)  <br/>
 __Credit:__ @github:javierbyte
 
 ### **Lightmode is Necessary**
-> __Description:__ An article explaining why lightmode is an important to software. <br/>
+> __Beschreibung:__ Ein Artikel, der erklärt, warum Lightmode für Software so wichtig ist. <br/>
 __Link:__ [Article](https://lightmode.glitch.me) <br/>
 
 ### **ProtonMail**
-> __Description:__ Open Source E2E encrypted Email Service. <br/>
+> __Beschreibung:__Open Source E2E verschlüsselter E-Mail-Dienst. <br/>
 __Link:__ [ProtonMail](https://protonmail.com) <br/>
 
 ### **dCode**
-> __Description:__ dCode is a universal website used for encoding and decoding messages. Also offers a bunch of related tools.  <br/>
+> __Beschreibung:__ dCode ist eine universelle Website für die Kodierung und Dekodierung von Nachrichten. Bietet auch eine Reihe von verwandten Tools.  <br/>
 __Link:__ [dCode Website](https://dcode.fr/en)  <br/>
 __Credit:__ @273906785788624907
 
 ### **Computer Hope**
-> __Description:__ Free computer help and support. <br/>
+> __Beschreibung:__ Kostenlose Computerhilfe und -unterstützung. <br/>
 __Link:__ [ComputerHope](https://www.computerhope.com/) <br/>
 
 ### **Skill Icons**
-> __Description:__ Showcase languages, frameworks and tools used on a GitHub profile. <br/>
+> __Beschreibung:__ Präsentiert Sprachen, Frameworks und Tools, die in einem GitHub-Profil verwendet werden können. <br/>
 __Link:__ [Skill Icons](https://skillicons.dev/) <br/>
 __Credit:__ @276544649148235776
 
 ### **Savefrom**
-> __Description:__ Download any content from popular sites.  <br/>
+> __Beschreibung:__ Lade beliebige Inhalte von beliebten Websites herunter.  <br/>
 __Link:__ [Savefrom](https://savefrom.net/)
