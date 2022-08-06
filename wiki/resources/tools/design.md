@@ -1,88 +1,88 @@
 ---
 title: Design
 sidebar_position: 5
-description: Design tools
+description: Entwurfswerkzeuge
 ---
 
 # Design
 ### **Material Design Icons**
-> __Beschreibung:__ A collection of icons centered around material design, allowing for custom format, size, and color. <br/>
+> __Beschreibung:__ Eine Sammlung von Symbolen, die sich am Material Design orientieren und benutzerdefinierte Formate, Größen und Farben zulassen. <br/>
 __Link:__ [Material Design Icons)](https://materialdesignicons.com/)  <br/>
 __Credit:__ @github:Templarian
 
 ### **Google Fonts Icons**
-> __Beschreibung:__ A collection of common icons based around web actions, provided by Google. <br/>
+> __Beschreibung:__ Eine von Google zur Verfügung gestellte Sammlung allgemeiner Icons, die auf Web-Aktionen basieren. <br/>
 __Link:__ [Google Fonts Icons](https://fonts.google.com/icons) <br/>
 __Credit:__ @github:google
 
 ### **Branding Style Guides**
-> __Beschreibung:__ A collection of different company's branding, including Discords.   <br/>
+> __Beschreibung:__ Eine Sammlung von Markenzeichen verschiedener Unternehmen, einschließlich Discords.   <br/>
 __Link:__ [Branding Style Guides](https://brandingstyleguides.com/)
 
 ### **Evernote Design Bookmarks**
-> __Beschreibung:__ A list of bookmarks for everything design-resources.  <br/>
+> __Beschreibung:__ Eine Liste von Lesezeichen für alle Design-Ressourcen.  <br/>
 __Link:__ [Evernote Design](https://www.evernote.design/)  <br/>
 
 ### **Simpleicons**
-> __Beschreibung:__ A list of simple icons, including brand icons.   <br/>
+> __Beschreibung:__ Eine Liste mit einfachen Symbolen, einschließlich Markensymbolen.   <br/>
 __Link:__ [Simpleicons](https://simpleicons.org/)
 
 ### **Heroicons**
-> __Beschreibung:__ Hand-crafted SVG icons.   <br/>
+> __Beschreibung:__ Handgefertigte SVG-Symbole.   <br/>
 __Link:__ [Heroicons](https://heroicons.com/)
 
 ### **Coolors**
-> __Beschreibung:__ Color schemes generator.   <br/>
+> __Beschreibung:__ Farbschema-Generator.   <br/>
 __Link:__ [Coolors](https://coolors.co/)
 
 ### **The Noun Project**
-> __Beschreibung:__ Over 3 million community-contributed icons along with icon customization and an API.  <br/>
+> __Beschreibung:__ Mehr als 3 Millionen von der Community zur Verfügung gestellte Icons sowie die Möglichkeit zur Anpassung von Icons und eine API.  <br/>
 __Link:__ [The Noun Project](https://thenounproject.com/)
 
 ### **Adobe Color**
-> __Beschreibung:__ A color theme creator with connectivity across Adobe products.  <br/>
+> __Beschreibung:__ Ein Farbdesigner, der mit allen Adobe-Produkten kompatibel ist.  <br/>
 __Link:__ [Adobe Color](https://color.adobe.com/)
 
 ### **Open Color**
-> __Beschreibung:__ An open-source color scheme and library set optimized for user interfaces.  <br/>
+> __Beschreibung:__ Ein Open-Source-Farbschema und eine Bibliothek, die für Benutzeroberflächen optimiert sind.  <br/>
 __Link:__ [Open Color](https://yeun.github.io/open-color/)  <br/>
 __Credit:__ @github:yeun
 
 ### **Teeny Icons**
-> __Beschreibung:__ A set of minimal 1px icons.  <br/>
+> __Beschreibung:__ Eine Reihe von minimalen 1px Icons.  <br/>
 __Link:__ [Teeny Icons](https://teenyicons.com/)  <br/>
 __CREDIT:__ @github:@teenyicons
 
 ### **Streamline**
-> __Beschreibung:__ Over 100k icons, illustrations, and emojis.  <br/>
+> __Beschreibung:__ Über 100.000 Icons, Illustrationen und Emojis.  <br/>
 __Link:__ [Streamline](https://streamlinehq.com/)  
 
 ### **Feather Icons**
-> __Beschreibung:__ Simple, open-source icons.  <br/>
+> __Beschreibung:__ Simple Open-Source-Symbole.  <br/>
 __Link:__ [Feather Icons](https://feathericons.com/)  <br/>
 __Credit:__ @github:@feathericons
 
 ### **Spectrum**
-> __Beschreibung:__ Minimal, consistent UI icons.  <br/>
+> __Beschreibung:__ Minimale, konsistente UI-Symbole.  <br/>
 __Link:__ [Spectrum](https://spectrum.adobe.com/page/icons/)  
 
 ### **Font Awesome**
-> __Beschreibung:__ Vector icons and social logos.  <br/>
+> __Beschreibung:__ Vektorensymbole und Soziallogos.  <br/>
 __Link:__ [Font Awesome](https://fontawesome.com/)  <br/>
 __Credit:__ @github:@FortAwesome
 
 ### **ICONS8**
-> __Beschreibung:__ Icons, illustrations, photos, music, and design tools.  <br/>
+> __Beschreibung:__ Icons, Illustrationen, Fotos, Musik und Design-Tools.  <br/>
 __Link:__ [ICONS8](https://icons8.com/)  
 
 ### **unDraw**
-> __Beschreibung:__ Free, open-source illustrations.  <br/>
+> __Beschreibung:__ Freie, quelloffene Illustrationen.  <br/>
 __Link:__ [Feather Icons](https://undraw.co/)  
 
 ### **tldraw**
-> __Beschreibung:__ A simple drawing app.  <br/>
+> __Beschreibung:__ Eine einfache Zeichen-App.  <br/>
 __Link:__ [tldraw](https://www.tldraw.com/)
 
 ### **Freepik**
-> __Beschreibung:__ Free vectors, stock photos, and PSD.  <br/>
+> __Beschreibung:__ Kostenlose Vektoren, Stockfotos und PSD.  <br/>
 __Link:__ [Freepik](https://freepik.com/) 
