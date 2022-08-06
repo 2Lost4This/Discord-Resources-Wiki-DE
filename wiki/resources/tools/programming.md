@@ -6,102 +6,137 @@ description: Werkzeuge für die Programmierung
 
 # Programmierung
 
-### **Autocode**
-> __Beschreibung:__ AAutocode verwandelt JavaScript (Node.js)-Funktionen im Handumdrehen in skalierbare Webdienste, ohne dass eine Konfiguration erforderlich ist.   <br/>
-__Link:__ [Autocode](https://autocode.com/)  <br/>
-__Credit:__ @746460957651501196
+## **Autocode**
 
-### **Stack Overflow**
-> __Beschreibung:__ Ein Ort, um Lösungen zu finden und Probleme im Zusammenhang mit der Codierung zu diskutieren.  <br/>
-__Link:__ [Stack Overflow](https://stackoverflow.com/)
+> **Beschreibung:** AAutocode verwandelt JavaScript (Node.js)-Funktionen im Handumdrehen in skalierbare Webdienste, ohne dass eine Konfiguration erforderlich ist.   <br/>
+**Link:** [Autocode](https://autocode.com/)  <br/>
+**Credit:** @746460957651501196
 
-### **RapidAPI**
-> __Beschreibung:__ Finden Sie APIs für alle Zwecke.  <br/>
-__Link:__ [RapidAPI](https://rapidapi.com/)
+## **Stack Overflow**
 
-### **Some Random API**
-> __Beschreibung:__ Eine Vielzahl unterhaltsamer Endpunkte, die Entwickler nutzen können.  <br/>
-__Link:__ [Some Random API](https://some-random-api.ml/)  <br/>
-__Credit:__ @423675224395874314 
+> **Beschreibung:** Ein Ort, um Lösungen zu finden und Probleme im Zusammenhang mit der Codierung zu diskutieren.  <br/>
+**Link:** [Stack Overflow](https://stackoverflow.com/)
 
-### **Choose A License**
-> __Beschreibung:__ Wähle eine Lizenz für dein Open-Source-Projekt.   <br/>
-__Link:__ [Choose A License](https://choosealicense.com/)
+## **RapidAPI**
 
-### **Docker**
-> __Beschreibung:__ Vereinfacht die Entwicklungsprozesse.   <br/>
-__Link:__ [Docker](https://www.docker.com/)
+> **Beschreibung:** Finden Sie APIs für alle Zwecke.  <br/>
+**Link:** [RapidAPI](https://rapidapi.com/)
 
-### **Visual Studio Code**
-> __Beschreibung:__ Kostenloses und größtes Tool zur Codebearbeitung. <br/>
-__Link:__ [Visual studio code](https://code.visualstudio.com)  
+## **Some Random API**
 
-### **Docusaurus**
-> __Beschreibung:__ Ein optimierter Website-Generator in React. Docusaurus hilft dir, dich schnell zu bewegen und Inhalte zu schreiben.   <br/>
-__Link:__ [Docusaurus](https://docusaurus.io/)
+> **Beschreibung:** Eine Vielzahl unterhaltsamer Endpunkte, die Entwickler nutzen können.  <br/>
+**Link:** [Some Random API](https://some-random-api.ml/)  <br/>
+**Credit:** @423675224395874314 
 
-### **GitBook**
-> __Beschreibung:__ Erstelle Dokumente voller Hilfsprogramme und Gestaltungsmöglichkeiten.  <br/>
-__Link:__ [GitBook](https://www.gitbook.com/)
+## **Choose A License**
 
-### **Leitfäden und Dokumentation von GitHub**
-> __Beschreibung:__ Selbsterklärend.   <br/>
-__Link(s):__ 
+> **Beschreibung:** Wähle eine Lizenz für dein Open-Source-Projekt.   <br/>
+**Link:** [Choose A License](https://choosealicense.com/)
+
+## **Docker**
+
+> **Beschreibung:** Vereinfacht die Entwicklungsprozesse.   <br/>
+**Link:** [Docker](https://www.docker.com/)
+
+## **Visual Studio Code**
+
+> **Beschreibung:** Kostenloses und größtes Tool zur Codebearbeitung. <br/>
+**Link:** [Visual studio code](https://code.visualstudio.com)  
+
+## **Docusaurus**
+
+> **Beschreibung:** Ein optimierter Website-Generator in React. Docusaurus hilft dir, dich schnell zu bewegen und Inhalte zu schreiben.   <br/>
+**Link:** [Docusaurus](https://docusaurus.io/)
+
+## **GitBook**
+
+> **Beschreibung:** Erstelle Dokumente voller Hilfsprogramme und Gestaltungsmöglichkeiten.  <br/>
+**Link:** [GitBook](https://www.gitbook.com/)
+
+## **Leitfäden und Dokumentation von GitHub**
+
+> **Beschreibung:** Selbsterklärend.   <br/>
+**Link(s):** 
 [Dokumente](https://docs.github.com/en)   <br/>
 [Leitfäden](https://guides.github.com/)   <br/>
 [Community-Hilfe](https://github.community/)
 
-### **Github Education Pack**
-> __Beschreibung:__ Kostenlose Entwickler-Tools, bereitgestellt von Github Education Pack   <br/>
-__Link:__ [Github Education Pack](https://education.github.com/)
+## **Github Education Pack**
 
-### **Public APIs**
-> __Beschreibung:__ Public APIs ist eine gut gepflegte Liste von APIs, die du in deinen Projekten verwenden kannst, wobei jede API kategorisiert und dokumentiert ist.   <br/>
-__Link:__ [Public APIs](https://github.com/public-apis/public-apis)
+> **Beschreibung:** Kostenlose Entwickler-Tools, bereitgestellt von Github Education Pack   <br/>
+**Link:** [Github Education Pack](https://education.github.com/)
 
-### **HTTPS Status**
-> __Beschreibung:__ Eine Liste von HTTP-Statuscodes.   <br/>
-__Link:__ [HTTPS Status](https://httpstatuses.com/)
+## **Public APIs**
 
-### **Braucht meine Website HTTPS?**
-> __Beschreibung:__ Eine informative Seite, die die Bedeutung von HTTPS erklärt.  <br/>
-__Link:__ [Braucht meine Website HTTPS?](https://doesmysiteneedhttps.com/)
+> **Beschreibung:** Public APIs ist eine gut gepflegte Liste von APIs, die du in deinen Projekten verwenden kannst, wobei jede API kategorisiert und dokumentiert ist.   <br/>
+**Link:** [Public APIs](https://github.com/public-apis/public-apis)
 
-### **HTTP Toolkit**
-> __Beschreibung:__ Abfangen und Anzeigen all Ihrer HTTP(S)-Mock-Endpunkte oder ganzer Server Umschreiben, Umleiten oder Einfügen von Fehlern.  <br/>
-__Link:__ [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
-__Credit:__ github:@pimterry
+## **HTTPS Status**
 
-### **Markdown Guide**
-> __Beschreibung:__ Der Markdown Guide ist ein kostenloses und quelloffenes Nachschlagewerk, das erklärt, wie man Markdown verwendet, die einfache und leicht zu verwendende Auszeichnungssprache, mit der man praktisch jedes Dokument formatieren kann.   <br/>
-__Link:__ [Markdown Guide](https://www.markdownguide.org/)
+> **Beschreibung:** Eine Liste von HTTP-Statuscodes.   <br/>
+**Link:** [HTTPS Status](https://httpstatuses.com/)
 
-### **Qwerty.dev**
-> __Beschreibung:__ Qwerty.dev (ehemals beautifuldingbats.com) ist eine Sammlung von Unicode-Tools, die dir helfen, dich online zu profilieren.   <br/>
-__Link:__ [Qwerty.dev](https://qwerty.dev/)
+## **Braucht meine Website HTTPS?**
 
-### **replit**
-> __Beschreibung:__ Eine browserinterne IDE, ein Compiler und ein Interpreter, die mehr als 50 Sprachen unterstützen.   <br/>
-__Link:__ [replit](https://replit.com/)
+> **Beschreibung:** Eine informative Seite, die die Bedeutung von HTTPS erklärt.  <br/>
+**Link:** [Braucht meine Website HTTPS?](https://doesmysiteneedhttps.com/)
 
-### **Regex101**
-> __Beschreibung:__ Regex erstellen, testen und debuggen.   <br/>
-__Link:__ [Regex101](https://regex101.com/)
+## **HTTP Toolkit**
 
-### **RegExp Generator**
-> __Beschreibung:__ Unicode-Bereich RegExp-Generator.   <br/>
-__Link:__ [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
+> **Beschreibung:** Abfangen und Anzeigen all Ihrer HTTP(S)-Mock-Endpunkte oder ganzer Server Umschreiben, Umleiten oder Einfügen von Fehlern.  <br/>
+**Link:** [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
+**Credit:** github:@pimterry
 
-### **Regex Crossword**
-> __Beschreibung:__ Lerne Regex durch Rätsel und Herausforderungen.   <br/>
-__Link:__ [Regex Crossword](https://regexcrossword.com/)
+## **Markdown Guide**
 
-### **Leitfaden zur Mitwirkung an Open-Source-Software**
-> __Beschreibung:__ Eine Liste verschiedener Ressourcen zur Unterstützung von OSS-Mitwirkenden. <br/>
-__Link:__ [Wie man zu Open Source beiträgt](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
-__Credit:__ @github:freeCodeCamp
+> **Beschreibung:** Der Markdown Guide ist ein kostenloses und quelloffenes Nachschlagewerk, das erklärt, wie man Markdown verwendet, die einfache und leicht zu verwendende Auszeichnungssprache, mit der man praktisch jedes Dokument formatieren kann.   <br/>
+**Link:** [Markdown Guide](https://www.markdownguide.org/)
 
-### **Große Liste von Nasty Strings**
-> __Beschreibung:__ Eine Liste von Zeichenketten, die bei der Prüfung auf Grenzfälle helfen <br/>
-__Link:__ [Große Liste von Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
-__Credit:__ @github:minimaxir
+## **Qwerty.dev**
+
+> **Beschreibung:** Qwerty.dev (ehemals beautifuldingbats.com) ist eine Sammlung von Unicode-Tools, die dir helfen, dich online zu profilieren.   <br/>
+**Link:** [Qwerty.dev](https://qwerty.dev/)
+
+## **replit**
+
+> **Beschreibung:** Eine browserinterne IDE, ein Compiler und ein Interpreter, die mehr als 50 Sprachen unterstützen.   <br/>
+**Link:** [replit](https://replit.com/)
+
+## **Regex101**
+
+> **Beschreibung:** Regex erstellen, testen und debuggen.   <br/>
+**Link:** [Regex101](https://regex101.com/)
+
+## **RegExp Generator**
+
+> **Beschreibung:** Unicode-Bereich RegExp-Generator.   <br/>
+**Link:** [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
+
+## **Regex Crossword**
+
+> **Beschreibung:** Lerne Regex durch Rätsel und Herausforderungen.   <br/>
+**Link:** [Regex Crossword](https://regexcrossword.com/)
+
+## **Leitfaden zur Mitwirkung an Open-Source-Software**
+
+> **Beschreibung:** Eine Liste verschiedener Ressourcen zur Unterstützung von OSS-Mitwirkenden. <br/>
+**Link:** [Wie man zu Open Source beiträgt](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
+**Credit:** @github:freeCodeCamp
+
+## **Große Liste von Nasty Strings**
+
+> **Beschreibung:** Eine Liste von Zeichenketten, die bei der Prüfung auf Grenzfälle helfen <br/>
+**Link:** [Große Liste von Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
+**Credit:** @github:minimaxir
+
+## **Kostenfrei für Developer**
+
+> **Beschreibung:** Liste der kostenlosen Angebote für Entwickler <br/>
+**Link:** [Kostenfrei für Developer](https://free-for.dev/#/) <br/>
+**Credit:** @github:ripienaar
+
+## **Paginierte discordjs-Meldungen**
+
+> **Description:** Ein Paket, das hilft, paginierte Nachrichten in discord.js einfacher zu machen <br/>
+**Link:** [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
+**Credit:** @github:sapphiredev

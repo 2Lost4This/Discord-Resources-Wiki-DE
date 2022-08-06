@@ -6,19 +6,23 @@ description: Offizielle Formular von Discord.
 
 # Offizielle Formular
 
-## **Report Formular** 
-> __Beschreibung:__ Melde ein Problem an das Team für Vertrauen und Sicherheit von Discord.   <br/>
-__Link:__ [Discord Report Formular](https://dis.gd/report)
+## **Report Formular**
 
-## **Support Formular** 
-> __Beschreibung:__ Du brauchst Hilfe? Schicke eine Anfrage an das Discord-Team.   <br/>
-__Link:__  [Discord Support Formular](https://dis.gd/contact)
+> **Beschreibung:** Melde ein Problem an das Team für Vertrauen und Sicherheit von Discord.   <br/>
+**Link:** [Discord Report Formular](https://dis.gd/report)
 
-## **Feedback** 
-> __Beschreibung:__ Sende Feedback an das Discord-Team.   <br/>
-__Link:__  [Discord Feedback Formular](https://dis.gd/feedback)
+## **Support Formular**
+
+> **Beschreibung:** Du brauchst Hilfe? Schicke eine Anfrage an das Discord-Team.   <br/>
+**Link:**  [Discord Support Formular](https://dis.gd/contact)
+
+## **Feedback**
+
+> **Beschreibung:** Sende Feedback an das Discord-Team.   <br/>
+**Link:**  [Discord Feedback Formular](https://dis.gd/feedback)
 
 
-## **Discord Vertrauen & Sicherheit** 
-> __Beschreibung:__ Sende eine Anfrage an das Team für Vertrauen und Sicherheit von Discord.   <br/>
-__Link:__ [Discord Vertrauen & Sicherheit](https://dis.gd/request)
+## **Discord Vertrauen & Sicherheit**
+
+> **Beschreibung:** Sende eine Anfrage an das Team für Vertrauen und Sicherheit von Discord.   <br/>
+**Link:** [Discord Vertrauen & Sicherheit](https://dis.gd/request)
