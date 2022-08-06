@@ -28,6 +28,8 @@ Ein Dank geht an:<br/>
 @192060404501839872 - Designer<br/>
 @386861188891279362 - Website-Architekt / Organisator der Dokumentation<br/>
 @102102717165506560 - Wachstumsberatung / RRessourcenkurator<br/>
+@280094303429197844 - Übersetzung ins Deutsche
+@421991668556759042 - Übersetzung ins Deutsche
 @755792681313108018 - *Ich hatte diese Idee und habe alle oben genannten Dinge getan*
 
 ## Wie man Änderungen lokal testet
