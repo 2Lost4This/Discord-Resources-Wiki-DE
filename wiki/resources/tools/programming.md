@@ -1,142 +1,142 @@
 ---
-title: Programming Related 
+title: Programmierung 
 sidebar_position: 2
-description: Programming related tools
+description: Werkzeuge für die Programmierung
 ---
 
-# Programming Related
+# Programmierung
 
 ## **Autocode**
 
-> **Description:** Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, no configuration required.   <br/>
+> **Beschreibung:** AAutocode verwandelt JavaScript (Node.js)-Funktionen im Handumdrehen in skalierbare Webdienste, ohne dass eine Konfiguration erforderlich ist.   <br/>
 **Link:** [Autocode](https://autocode.com/)  <br/>
 **Credit:** @746460957651501196
 
 ## **Stack Overflow**
 
-> **Description:** A place to find solutions and discuss coding related problems.  <br/>
+> **Beschreibung:** Ein Ort, um Lösungen zu finden und Probleme im Zusammenhang mit der Codierung zu diskutieren.  <br/>
 **Link:** [Stack Overflow](https://stackoverflow.com/)
 
 ## **RapidAPI**
 
-> **Description:** Find APIs to all purposes.  <br/>
+> **Beschreibung:** Finden Sie APIs für alle Zwecke.  <br/>
 **Link:** [RapidAPI](https://rapidapi.com/)
 
 ## **Some Random API**
 
-> **Description:** Variety of fun endpoints for devs to use.  <br/>
+> **Beschreibung:** Eine Vielzahl unterhaltsamer Endpunkte, die Entwickler nutzen können.  <br/>
 **Link:** [Some Random API](https://some-random-api.ml/)  <br/>
-**Credit:** @423675224395874314
+**Credit:** @423675224395874314 
 
 ## **Choose A License**
 
-> **Description:** Choose a license for your open source project.   <br/>
+> **Beschreibung:** Wähle eine Lizenz für dein Open-Source-Projekt.   <br/>
 **Link:** [Choose A License](https://choosealicense.com/)
 
 ## **Docker**
 
-> **Description:** Simplifies development processes.   <br/>
+> **Beschreibung:** Vereinfacht die Entwicklungsprozesse.   <br/>
 **Link:** [Docker](https://www.docker.com/)
 
 ## **Visual Studio Code**
 
-> **Description:** Free and biggest code editing tool. <br/>
+> **Beschreibung:** Kostenloses und größtes Tool zur Codebearbeitung. <br/>
 **Link:** [Visual studio code](https://code.visualstudio.com)  
 
 ## **Docusaurus**
 
-> **Description:** An optimized site generator in React. Docusaurus helps you to move fast and write content.   <br/>
+> **Beschreibung:** Ein optimierter Website-Generator in React. Docusaurus hilft dir, dich schnell zu bewegen und Inhalte zu schreiben.   <br/>
 **Link:** [Docusaurus](https://docusaurus.io/)
 
 ## **GitBook**
 
-> **Description:** Create docs full of utilities and design options.  <br/>
+> **Beschreibung:** Erstelle Dokumente voller Hilfsprogramme und Gestaltungsmöglichkeiten.  <br/>
 **Link:** [GitBook](https://www.gitbook.com/)
 
-## **GitHub’s Guides and Documentation**
+## **Leitfäden und Dokumentation von GitHub**
 
-> **Description:** Self explanatory.   <br/>
-**Link(s):**
-[Docs](https://docs.github.com/en)   <br/>
-[Guides](https://guides.github.com/)   <br/>
-[Community Help](https://github.community/)
+> **Beschreibung:** Selbsterklärend.   <br/>
+**Link(s):** 
+[Dokumente](https://docs.github.com/en)   <br/>
+[Leitfäden](https://guides.github.com/)   <br/>
+[Community-Hilfe](https://github.community/)
 
 ## **Github Education Pack**
 
-> **Description:** Free Developer Tools provided by Github Education Pack   <br/>
+> **Beschreibung:** Kostenlose Entwickler-Tools, bereitgestellt von Github Education Pack   <br/>
 **Link:** [Github Education Pack](https://education.github.com/)
 
 ## **Public APIs**
 
-> **Description:** Public APIs is a well maintained list of APIs to use in your projects, where each API is categorized and documented.   <br/>
+> **Beschreibung:** Public APIs ist eine gut gepflegte Liste von APIs, die du in deinen Projekten verwenden kannst, wobei jede API kategorisiert und dokumentiert ist.   <br/>
 **Link:** [Public APIs](https://github.com/public-apis/public-apis)
 
-## **HTTPS Statuses**
+## **HTTPS Status**
 
-> **Description:** A list of HTTP status codes.   <br/>
-**Link:** [HTTPS Statuses](https://httpstatuses.com/)
+> **Beschreibung:** Eine Liste von HTTP-Statuscodes.   <br/>
+**Link:** [HTTPS Status](https://httpstatuses.com/)
 
-## **Does My Site Need HTTPS?**
+## **Braucht meine Website HTTPS?**
 
-> **Description:** An informative page explaining the importance of HTTPS.  <br/>
-**Link:** [Does My Site Need HTTPS?](https://doesmysiteneedhttps.com/)
+> **Beschreibung:** Eine informative Seite, die die Bedeutung von HTTPS erklärt.  <br/>
+**Link:** [Braucht meine Website HTTPS?](https://doesmysiteneedhttps.com/)
 
 ## **HTTP Toolkit**
 
-> **Description:** Intercept & view all your HTTP(S) Mock endpoints or entire servers Rewrite, redirect, or inject errors.  <br/>
+> **Beschreibung:** Abfangen und Anzeigen all Ihrer HTTP(S)-Mock-Endpunkte oder ganzer Server Umschreiben, Umleiten oder Einfügen von Fehlern.  <br/>
 **Link:** [HTTP Toolkit](https://httptoolkit.tech/)  <br/>
 **Credit:** github:@pimterry
 
 ## **Markdown Guide**
 
-> **Description:** The Markdown Guide is a free and open-source reference guide that explains how to use Markdown, the simple and easy-to-use markup language you can use to format virtually any document.   <br/>
+> **Beschreibung:** Der Markdown Guide ist ein kostenloses und quelloffenes Nachschlagewerk, das erklärt, wie man Markdown verwendet, die einfache und leicht zu verwendende Auszeichnungssprache, mit der man praktisch jedes Dokument formatieren kann.   <br/>
 **Link:** [Markdown Guide](https://www.markdownguide.org/)
 
 ## **Qwerty.dev**
 
-> **Description:** Qwerty.dev (formerly beautifuldingbats.com) is a collection of unicode tools to help you stand out online.   <br/>
+> **Beschreibung:** Qwerty.dev (ehemals beautifuldingbats.com) ist eine Sammlung von Unicode-Tools, die dir helfen, dich online zu profilieren.   <br/>
 **Link:** [Qwerty.dev](https://qwerty.dev/)
 
 ## **replit**
 
-> **Description:** An in-browser IDE, compiler, and interpreter supporting 50+ languages.   <br/>
+> **Beschreibung:** Eine browserinterne IDE, ein Compiler und ein Interpreter, die mehr als 50 Sprachen unterstützen.   <br/>
 **Link:** [replit](https://replit.com/)
 
 ## **Regex101**
 
-> **Description:** Build, test, and debug regex.   <br/>
+> **Beschreibung:** Regex erstellen, testen und debuggen.   <br/>
 **Link:** [Regex101](https://regex101.com/)
 
 ## **RegExp Generator**
 
-> **Description:** Unicode range RegExp generator.   <br/>
+> **Beschreibung:** Unicode-Bereich RegExp-Generator.   <br/>
 **Link:** [RegExp Generator](https://apps.timwhitlock.info/js/regex#)
 
 ## **Regex Crossword**
 
-> **Description:** Learn regex through puzzles and challenges.   <br/>
+> **Beschreibung:** Lerne Regex durch Rätsel und Herausforderungen.   <br/>
 **Link:** [Regex Crossword](https://regexcrossword.com/)
 
-## **Guide(s) to contributing on Open Source Software**
+## **Leitfaden zur Mitwirkung an Open-Source-Software**
 
-> **Description:** A list of various resources to help OSS contributors. <br/>
-**Link:** [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
+> **Beschreibung:** Eine Liste verschiedener Ressourcen zur Unterstützung von OSS-Mitwirkenden. <br/>
+**Link:** [Wie man zu Open Source beiträgt](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) <br/>
 **Credit:** @github:freeCodeCamp
 
-## **Big List of Nasty Strings**
+## **Große Liste von Nasty Strings**
 
-> **Description:** A list of strings to help test for edge cases <br/>
-**Link:** [Big List of Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
+> **Beschreibung:** Eine Liste von Zeichenketten, die bei der Prüfung auf Grenzfälle helfen <br/>
+**Link:** [Große Liste von Nasty Strings](https://github.com/minimaxir/big-list-of-naughty-strings) <br/>
 **Credit:** @github:minimaxir
 
-## **Free for developers**
+## **Kostenfrei für Developer**
 
-> **Description:** List of free offerings for developers <br/>
-**Link:** [Free for developers](https://free-for.dev/#/) <br/>
+> **Beschreibung:** Liste der kostenlosen Angebote für Entwickler <br/>
+**Link:** [Kostenfrei für Developer](https://free-for.dev/#/) <br/>
 **Credit:** @github:ripienaar
 
-## **Paginated discordjs messages**
+## **Paginierte discordjs-Meldungen**
 
-> **Description:** A package that helps make paginated messages easier in discord.js <br/>
+> **Description:** Ein Paket, das hilft, paginierte Nachrichten in discord.js einfacher zu machen <br/>
 **Link:** [Paginated Discord messages](https://www.npmjs.com/package/@sapphire/discord.js-utilities) <br />
 **Credit:** @github:sapphiredev

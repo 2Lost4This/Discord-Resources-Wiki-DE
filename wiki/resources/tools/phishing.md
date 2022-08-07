@@ -1,32 +1,33 @@
 ---
-title: Phishing Related 
+title: Phishing-bezogen 
 sidebar_position: 4
-description: Phishing and Security tools
+description: Phishing- und Sicherheitstools
 ---
 
-# Phishing Related
+# Phishing-bezogen
 
 ## **Discord Nitro Scams**
 
-> **Description:** This **safe and secure** website (*not a scam*) compares real Discord Nitro gifts to scams. Beware!   <br/>
+> **Beschreibung:** Diese **sichere** Website (*kein Betrug*) vergleicht echte Discord Nitro Geschenke mit Betrügereien. Aufgepasst!   <br/>
 **Link:** [Discord Nitro Information](https://dicsord.gq/)
 
 ## **Virus Total**
 
-> **Description:** Virus Total analyses suspicious files and URLs to detect types of malware.   <br/>
+> **Beschreibung:** Virus Total analysiert verdächtige Dateien und URLs, um Arten von Malware zu erkennen.   <br/>
 **Link:** [Virus Total](https://www.virustotal.com/gui/home/upload)
 
 ## **CleanURLs**
 
-> **Description:** ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.  <br/>
+> **Beschreibung:** ClearURLs ist ein Add-on, das auf der neuen Webextensions-Technologie basiert und automatisch Tracking-Elemente aus URLs entfernt, um Ihre Privatsphäre zu schützen.  <br/>
 **Link(s):**  <br/>
 [CleanUrls](https://github.com/ClearURLs/Addon)  <br/>
-[CleanUrls Docs](https://docs.clearurls.xyz/latest/)  <br/>
+[CleanUrls Dokumentation](https://docs.clearurls.xyz/latest/)  <br/>
 **Credit:** @github:KevinRoebert
 
-## **Gits of Scam Links**
 
-> **Description:** GitHub repositories full of scam links.   <br/>
+## **Gits mit Scam Links**
+
+> **Beschreibung:** GitHub-Repositories voller betrügerischer Links.   <br/>
 **Link(s):**  
 [Block List Project](https://blocklistproject.github.io/Lists/)   <br/>
 [malvertising](https://github.com/D09r/malvertising/blob/master/scam-domains.csv)   <br/>
@@ -36,19 +37,19 @@ description: Phishing and Security tools
 [Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
 [WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
 
-## **Database full of malicious links**
+## **Datenbank voll mit bösartigen Links**
 
-> **Description:** Self explanatory. 🔢   <br/>
-**Link:** [Malicious Links Database](https://urlhaus.abuse.ch/browse/)
+> **Beschreibung:** Selbsterklärend. 🔢   <br/>
+**Link:** [Datenbank voll mit bösartigen Links](https://urlhaus.abuse.ch/browse/)
 
-## **Phishing Recognizing Tools**
+## **Tools zum Erkennen von Phishing**
 
-> **Description:** Many tools to help you recognize phishing and compromised sites.  <br/>
+> **Beschreibung:** Viele Tools, die dir helfen, Phishing- und gefährliche Websites zu erkennen.  <br/>
 **Link(s):** <br/>
-[Google Safety Checker](https://transparencyreport.google.com/safe-browsing/search)  <br/>
+[Google Sicherheitsprüfer](https://transparencyreport.google.com/safe-browsing/search)  <br/>
 [AbuseIPDB](https://www.abuseipdb.com/)  <br/>
-[BrightCloud URL Lookup](https://www.brightcloud.com/tools/url-ip-lookup.php)  <br/>
-[Is It Hacked](https://www.isithacked.com/)  <br/>
+[BrightCloud-URL-Suche](https://www.brightcloud.com/tools/url-ip-lookup.php)  <br/>
+[Wurde es gehackt](https://www.isithacked.com/)  <br/>
 [isitPhishing](https://isitphishing.org/) <br/>
 [URL Void](https://www.urlvoid.com/)  <br/>
 [IP Void](https://www.ipvoid.com/)  <br/>
@@ -58,9 +59,8 @@ description: Phishing and Security tools
 [McAfee URL Checker](https://www.trustedsource.org/)  <br/>
 [IP Logger URL Checker](https://iplogger.com/url-checker)
 
-## Phishing APIs
-
-> **Description:** These are APIs and tools to handle phishing attempts.   <br/>
+## Phishing APIs 
+> **Beschreibung:** Dabei handelt es sich um APIs und Tools zur Bekämpfung von Phishing-Versuchen.   <br/>
 **Link(s):** <br/>
 [Got Phish](http://gotphish.com/)   <br/>
 [Hyperphish](https://api.hyperphish.com/docs) (credit: @297045071457681409)   <br/>
@@ -77,20 +77,20 @@ description: Phishing and Security tools
 
 ## **Phisherman**
 
-> **Description:**   <br/>
-Phisherman is a centralized database of phishing and scam links. It is designed for use with Discord bots, allowing them to utilise the Phisherman API to cross-check URLs against the Phisherman database.   <br/>
+> **Beschreibung:**   <br/>
+Phisherman ist eine zentrale Datenbank für Phishing- und Betrugslinks. Sie wurde für die Verwendung mit Discord-Bots entwickelt, damit diese die Phisherman-API nutzen können, um URLs mit der Phisherman-Datenbank abzugleichen.   <br/>
 **Link(s):**   <br/>
-[Phisherman Website](https://phisherman.gg/)   <br/>
-[PhishermanDocs](https://docs.phisherman.gg/)
+[Phisherman Webseite](https://phisherman.gg/)   <br/>
+[Phisherman Dokumentation](https://docs.phisherman.gg/)
 
 ## **The Vaccinator**
 
-> **Description:** A tool for detecting and neutralizing Discord token stealers by deleting their internal Discord webhook. <br/>
-**Note:** This tool is **not** an antivirus. It's just a utility that can help prevent scammers from getting other people's data. <br/>
-**Link:** [Website](https://sketchy.tel/)  <br/>
-**Credit:** The Vaccinator Team (contact: @204414611578028034)
+> **Beschreibung:** Ein Tool zum Aufspüren und Neutralisieren von Discord-Token-Stealern durch Löschen ihres internen Discord-Webhooks. <br/>
+**Notiz**:** Dieses Tool ist **kein** Antivirus. Es ist nur ein Dienstprogramm, das Betrüger daran hindern kann, an die Daten anderer Leute zu gelangen. <br/>
+**Link:** [Webseite](https://sketchy.tel/)  <br/>
+**Credit:** Das Vaccinator Team (Kontakt: @204414611578028034)
 
 ## **Intezer Analyse**
 
-> **Description:** Advanced security researching tool to help determine if a file is malicious and much more. (Not entirely free) <br/>
+> **Beschreibung:** Ein fortschrittliches Sicherheitsforschungswerkzeug, mit dem erkannt werden kann, ob eine Datei bösartig ist und vieles mehr. (Nicht komplett kostenlos) <br/>
 **Link:** [Intezer Analyse](https://analyze.intezer.com/)

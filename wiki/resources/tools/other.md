@@ -1,288 +1,289 @@
 ---
-title: Other
+title: Sonstiges
 sidebar_position: 3
-description: Other useful tools
+description: Andere nützliche Tools
 ---
 
-# Other
+# Sonstiges
+
 
 ## **Blank Characters**
 
-> **Description:** A list of blank Unicode characters. <br/>
+> **Beschreibung:** Eine Liste von leeren Unicode-Zeichen. <br/>
 **Link:** [Blank Charcaters](https://character.construction/blanks)
 
 ## **Bitwarden**
 
-> **Description:** Open source password manager.   <br/>
+> **Beschreibung:** Open source Passwort-Manager.   <br/>
 **Link:** [Bitwarden](https://bitwarden.com/)
 
 ## **Blobs**
 
-> **Description:** A server list of blob emojis. <br/>
+> **Beschreibung:** Eine Serverliste von Blob-Emojis. <br/>
 **Link:** [Blobs](https://blobs.gg/) <br/>
 **Credit:** @69198249432449024
 
 ## **CitizenLab**
 
-> **Description:** URL testing lists intended to help in testing URL censorship, divided by country codes.   <br/>
-**Link:** [CitizenLab](https://github.com/citizenlab/test-lists)
+> **Beschreibung:** URL-Testlisten, die bei der Prüfung der URL-Zensur helfen sollen, unterteilt nach Ländercodes.   <br/>
+**Link:** [CitizenLab](https://github.com/citizenlab/test-lists) 
 
 ## **Polywork**
 
-> **Description:** Polywork is a professional social network that lets users create a free personal webpage, share what're they're up to both personally and professionally and send collaboration requests to others.  <br/>
+> **Beschreibung:** Polywork ist ein professionelles soziales Netzwerk, mit dem Nutzer eine kostenlose persönliche Webseite erstellen, ihre persönlichen und beruflichen Aktivitäten teilen und Anfragen zur Zusammenarbeit an andere senden können.  <br/>
 **Link:** [Polywork](https://www.polywork.com/)
 
 ## **Rize**
 
-> **Description:** Rize is an intelligent time tracker that improves your focus and helps you build better work habits. <br/>
+> **Beschreibung:** Rize ist ein intelligenter Zeiterfasser, der Ihre Konzentration verbessert und Ihnen hilft, bessere Arbeitsgewohnheiten zu entwickeln. <br/>
 **Link:** [Rize](https://rize.io)
 
 ## **Files**
 
-> **Description:** File manager for Windows, focused on design.  <br/>
+> **Beschreibung:** Dateimanager für Windows, mit Schwerpunkt auf Design.  <br/>
 **Link:** [Files](https://files.community/)
 
 ## **One Commander**
 
-> **Description:** File manager for Windows, focused on productivity.  <br/>
+> **Beschreibung:** Dateimanager für Windows, mit Schwerpunkt auf Produktivität.  <br/>
 **Link:** [One Commander](https://www.onecommander.com/)
 
 ## **Carrd**
 
-> **Description:** Build one-page websites.   <br/>
+> **Beschreibung:** Erstelle Ope-Page Webseiten.   <br/>
 **Link:** [Carrd](https://carrd.co/)
 
 ## **Down for Everyone or Just Me**
 
-> **Description:** A site that checks if a domain is up.   <br/>
+> **Beschreibung:** Eine Website, die prüft, ob eine Domain verfügbar ist.   <br/>
 **Link:** [Down for Everyone or Just Me](https://downforeveryoneorjustme.com/)
 
 ## **KeyCDN Tools**
 
-> **Description:** Many tools related to web, networking and security checkings.  <br/>
+> **Beschreibung:** Viele Tools für Web-, Netzwerk- und Sicherheitsprüfungen.  <br/>
 **Link:** [KeyCDN Tools](https://tools.keycdn.com/)
 
 ## **Dehashed**
 
-> **Description:** Tool to find data breaches that contain username, email, ip, address, phone, vin, etc.  <br/>
+> **Beschreibung:** Tool zum Auffinden von Datenverstößen, die Benutzernamen, E-Mail, IP, Adresse, Telefon, Vin, usw. enthalten.  <br/>
 **Link:** [Dehashed](https://dehashed.com)
 
 ## **Terms Of Service ; Didn't Read**
 
-> **Description:** Summarized terms of service for all known companies.  <br/>
+> **Beschreibung:** SZusammengefasste Nutzungsbedingungen für alle bekannten Unternehmen.  <br/>
 **Link:** [Terms Of Service ; Didn't Read](https://tosdr.org/)
 
 ## **TimezoneWizard**
 
-> **Description:** Easy to use tool for finding timezones all across the globe.  <br/>
+> **Beschreibung:** Einfach zu bedienendes Tool zum Auffinden von Zeitzonen auf der ganzen Welt.  <br/>
 **Link:** [TimezoneWizard](https://timezonewizard.com/)
 
 ## **C.O.A.C.H**
 
-> **Description:** Tidying up your online security, step by step.   <br/>
+> **Beschreibung:** Schritt für Schritt Ordnung in Ihre Online-Sicherheit bringen.   <br/>
 **Link:** [C.O.A.C.H](http://www.crashoverridenetwork.com/coach.html)
 
 ## **Empty Characters**
 
-> **Description:** List and methods to Unicode empty characters.   <br/>
+> **Beschreibung:** Liste und Methoden für leere Unicode-Zeichen.   <br/>
 **Link:** [Empty Characters](https://emptycharacter.com)
 
 ## **Awesome**
 
-> **Description:** Collection of lists about various topics.   <br/>
+> **Beschreibung:** Sammlung von Listen zu verschiedenen Themen.   <br/>
 **Link:** [Awesome](https://github.com/sindresorhus/awesome)  <br/>
 **Credit:** @github:sindresorhus
 
 ## **Internet Slang**
 
-> **Description:** A list of slang used across the internet.   <br/>
+> **Beschreibung:** Eine Liste der im Internet verwendeten Slangs.   <br/>
 **Link:** [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
 
 ## **Invited**
 
-> **Description:** Watch movies, Youtube or even listen to music together through a shared virtual browser.   <br/>
+> **Beschreibung:** Über einen gemeinsamen virtuellen Browser kannst du gemeinsam Filme anschauen, auf YouTube surfen oder sogar Musik hören.   <br/>
 **Link:** [Invited](https://invited.tv/)
 
 ## **Obsidian**
 
-> **Description:** An advanced note-taking app.  <br/>
+> **Beschreibung:** Eine fortgeschrittene App für Notizen.  <br/>
 **Link:** [Obsidian](https://obsidian.md/)
 
 ## **Trello**
 
-> **Description:** Manage collaborative projects easily.  <br/>
+> **Beschreibung:** Verwalte gemeinschaftliche Projekte ganz einfach.  <br/>
 **Link:** [Trello](https://trello.com/)
 
 ## **Notion**
 
-> **Description:** A product for creating workflows and websites, fully customizable for your needs.   <br/>
+> **Beschreibung:** Ein Produkt zur Erstellung von Workflows und Websites, das vollständig an deine Bedürfnisse angepasst werden kann.   <br/>
 **Link:** [Notion](https://www.notion.so/)
 
 ## **Tina**
 
-> **Description:** Open-source content management tool.  <br/>
+> **Beschreibung:** Open-Source-Werkzeug zur Verwaltung von Inhalten.  <br/>
 **Link:** [Tina](https://tina.io/)
 
 ## **Nord Theme**
 
-> **Description:** An arctic-inspired color palette and theme collection for various sites and applications.   <br/>
+> **Beschreibung:** Eine von der Arktis inspirierte Farbpalette und Themensammlung für verschiedene Websites und Anwendungen.   <br/>
 **Link:** [Nord Theme](https://www.nordtheme.com/)
 
 ## **Pronoun Island**
 
-> **Description:** A website for personal pronoun usage examples.   <br/>
+> **Beschreibung:** Eine Website mit Beispielen für die Verwendung von Personalpronomen.   <br/>
 **Link:** [Pronoun Island](https://pronoun.is/)
 
 ## **PronounDB**
 
-> **Description:** Pronouns intergration for websites and apps.  <br/>
+> **Beschreibung:** Pronomen-Integration für Websites und Anwendungen.  <br/>
 **Link:** [ProunounDB](https://pronoundb.org/)  <br/>
 **Credit:** @94762492923748352
 
 ## **Pronouns.page**
 
-> **Description:** Information about nonbinary and gender neutral language.  <br/>
+> **Beschreibung:** Informationen über nichtbinäre und geschlechtsneutrale Sprache.  <br/>
 **Link:** [Pronouns.page](https://en.pronouns.page/)
 
 ## **Flaticon**
 
-> **Description:** Free vector icons and stickers for your projects. Resources made by and for designers.   <br/>
+> **Beschreibung:** Kostenlose Vektorsymbole und Aufkleber für deine Projekte. Ressourcen von und für Designer.   <br/> 
 **Link:** [Flaticon](https://www.flaticon.com/)
 
 ## **Photopea**
 
-> **Description:** Free online image editor.   <br/>
+> **Beschreibung:** Kostenloses Online-Bildbearbeitungsprogramm.   <br/>
 **Link:** [Photopea](https://www.photopea.com/)
 
 ## **Random Sites**
 
-> **Description:** Generates a small list of random website URLs.   <br/>
+> **Beschreibung:** Erzeugt eine kleine Liste mit zufälligen Website-URLs.   <br/>
 **Link:** [Random Sites](https://www.randomlists.com/websites)
 
 ## **ShareX**
 
-> **Description:** Best sharing app.  
+> **Beschreibung:** Beste Sharing-App.  
 **Link:** [ShareX](https://getsharex.com/)   <br/>
 **Credit:** @95576568025329664
 
 ## **pfp.lgbt**
 
-> **Description:** A tool to "LGBTQ+fy" your images.  <br/>
+> **Beschreibung:** Ein Werkzeug zum "LGBTQ+fy" deiner Bilder.  <br/>
 **Link:** [pfp.lgbt](https://pfp.lgbt/)  <br/>
-**Credit:** @109710323094683648 @139836912335716352
+**Credit:** @109710323094683648 @139836912335716352 
 
 ## **Statista**
 
-> **Description:** Statistics and business data platform for over 170 industries.   <br/>
+> **Beschreibung:** Statistik- und Geschäftsdatenplattform für über 170 Branchen.   <br/>
 **Link:** [Statista](https://statista.com)
 
 ## **Semantic Scholar**
 
-> **Description:** Semantic Scholar uses AI to help you find scientific articles without suffering information overload. <br/>
-**Link:** [Semantic Scholar](https://www.semanticscholar.org/)
+> **Beschreibung:** Semantic Scholar nutzt KI, um dir bei der Suche nach wissenschaftlichen Artikeln zu helfen, ohne dass du unter einer Informationsflut leidest. <br/>
+**Link:** [Semantic Scholar](https://www.semanticscholar.org/) 
 
 ## **Simple Analytics**
 
-> **Description:** Simple, clean, and friendly analytics for sites.  <br/>
+> **Beschreibung:** Einfache, saubere und freundliche Analysen für Websites.  <br/>
 **Link:** [Simple Analytics](https://simpleanalytics.com/)
 
 ## **Grafana**
 
-> **Description:** Query, visualize, alert on, and understand your data with aesthetic dashboards.  <br/>
+> **Beschreibung:** Mit ästhetischen Dashboards kannst du deine Daten abfragen, visualisieren, Warnungen ausgeben und verstehen.  <br/>
 **Link:** [Grafana](https://grafana.com/)
 
 ## **The LaTeX Project**
 
-> **Description:** LaTeX is a document preparation system, useful for scientific or technical documents. <br/>
+> **Beschreibung:** LaTeX ist ein System zur Vorbereitung von Dokumenten, das sich für wissenschaftliche oder technische Dokumente eignet. <br/>
 **Link:** [The LaTeX Project](https://latex-project.org) <br/>
-**Credit:** @github:latex3
+**Credit:** @github:latex3 
 
 ## **Web Archives**
 
-> **Description:** Explore web pages saved over time.  <br/>
+> **Beschreibung:** Entdecke die im Laufe der Zeit gespeicherten Webseiten.  <br/>
 **Link:** <br/>  
 [Web Archives](https://web.archive.org/)  <br/>
 [Arvhive.is](https://archive.is/)
 
 ## **AlternativeTo**
 
-> **Description:** AlternativeTo is a crowd-sourced website that seeks to find alternate software for various purposes. <br/>
+> **Beschreibung:** AlternativeTo ist eine Crowd-Source-Website, die versucht, alternative Software für verschiedene Zwecke zu finden. <br/>
 **Link:** [AlternativeTo](https://alternativeto.net/)
 
 ## **Internet Download Manager**
 
-> **Description:** Tool that makes downloading videos and files through the browser easy.  <br/>
+> **Beschreibung:** Tool, das das Herunterladen von Videos und Dateien über den Browser erleichtert.  <br/>
 **Link:** [Download Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
 
 ## **Whois Lookup**
 
-> **Description:** Lookup information about domains or IP addresses.  <br/>
+> **Beschreibung:** Informationen über Domänen oder IP-Adressen abrufen.  <br/>
 **Link:** [Whois Lookup](https://whois.domaintools.com/)
 
 ## **Status Page**
 
-> **Description:** Communicate real-time status to your members.   <br/>
+> **Beschreibung:** Teile deinen Membern den Status in Echtzeit mit.   <br/>
 **Link:** [Status Page](https://statuspage.io)
 
 ## **Tone Indicators Website**
 
-> **Description:** Find and understand text tone indicators.   <br/>
+> **Beschreibung:** Finde und verstehe Indikatoren für die Tonalität von Texten.   <br/>
 **Link:** [Tone Indicators](https://toneindicators.carrd.co/)
 
 ## **URL Scanner**
 
-> **Description:** Scans URLs and gives details about them.   <br/>
+> **Beschreibung:** Scannt URLs und liefert Details über sie.   <br/>
 **Link:** [URL Scan](https://urlscan.io/)
 
 ## **URL Expander**
 
-> **Description:** Expand short URLs.   <br/>
+> **Beschreibung:** Erweitert kurze URLs.   <br/>
 **Link:** [URL Expander](https://urlex.org/)
 
 ## **Waifu2x**
 
-> **Description:** Image scaling and noise reduction for anime-style art.   <br/>
+> **Beschreibung:** Bildskalierung und Rauschunterdrückung für den Anime-Stil.   <br/>
 **Link:** [waifu2x](http://waifu2x.udp.jp/)
 
 ## **True Size**
 
-> **Description:** A global map where you can drag and drop landmasses to see better comparisons of size. <br/>
-**Link:** [True Size](https://thetruesize.com/)
+> **Beschreibung:** Eine globale Karte, auf der du Landmassen per Drag & Drop verschieben kannst, um die Größe besser vergleichen zu können. <br/>
+**Link:** [True Size](https://thetruesize.com/) 
 
 ## **Visual Center**
 
-> **Description:** Find the visual center of your images.  <br/>
+> **Beschreibung:** Finde das visuelle Zentrum deiner Bilder.  <br/>
 **Link:** [Visual Center](https://javier.xyz/visual-center/)  <br/>
 **Credit:** @github:javierbyte
 
 ## **Lightmode is Necessary**
 
-> **Description:** An article explaining why lightmode is an important to software. <br/>
+> **Beschreibung:** Ein Artikel, der erklärt, warum Lightmode für Software so wichtig ist. <br/>
 **Link:** [Article](https://lightmode.glitch.me) <br/>
 
 ## **ProtonMail**
 
-> **Description:** Open Source E2E encrypted Email Service. <br/>
+> **Beschreibung:**Open Source E2E verschlüsselter E-Mail-Dienst. <br/>
 **Link:** [ProtonMail](https://protonmail.com) <br/>
 
 ## **dCode**
 
-> **Description:** dCode is a universal website used for encoding and decoding messages. Also offers a bunch of related tools.  <br/>
+> **Beschreibung:** dCode ist eine universelle Website für die Kodierung und Dekodierung von Nachrichten. Bietet auch eine Reihe von verwandten Tools.  <br/>
 **Link:** [dCode Website](https://dcode.fr/en)  <br/>
 **Credit:** @273906785788624907
 
 ## **Computer Hope**
 
-> **Description:** Free computer help and support. <br/>
+> **Beschreibung:** Kostenlose Computerhilfe und -unterstützung. <br/>
 **Link:** [ComputerHope](https://www.computerhope.com/) <br/>
 
 ## **Skill Icons**
 
-> **Description:** Showcase languages, frameworks and tools used on a GitHub profile. <br/>
+> **Beschreibung:** Präsentiert Sprachen, Frameworks und Tools, die in einem GitHub-Profil verwendet werden können. <br/>
 **Link:** [Skill Icons](https://skillicons.dev/) <br/>
 **Credit:** @276544649148235776
 
 ## **Savefrom**
 
-> **Description:** Download any content from popular sites.  <br/>
+> **Beschreibung:** Lade beliebige Inhalte von beliebten Websites herunter.  <br/>
 **Link:** [Savefrom](https://savefrom.net/)
